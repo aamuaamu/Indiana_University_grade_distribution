@@ -7,6 +7,6 @@ We study
 2. The GPA grade distribution IU courses by year.
 3. The ABCDFW grade distribution of IU courses by year.
 4. The average GPA of courses by departments in year 2020.
-4.1. Sort departments by average GPA.
-4.2. Plot a histogram of average GPA by departments in year 2020.
+  4.1. Sort departments by average GPA.
+  4.2. Plot a histogram of average GPA by departments in year 2020.
 5. The ratios of D's, F's, and W's of various departments between year 2015 and 2020.
